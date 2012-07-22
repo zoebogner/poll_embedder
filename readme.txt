@@ -1,5 +1,5 @@
 ## Poll Embedder 0.1 alpha 2012-07-22
-For **Elgg 1.8**
+Tested in **Elgg 1.8.8**
 
 `Please note` this is early alpha testing stuff. Best not to use this for anything mission critical.
 
@@ -13,4 +13,3 @@ This plugin has been adapted from Ray J's Embed Extender plugin. The plugin, nor
 
 * Polldaddy Poll
 * Polldaddy Rating
-
