@@ -15,7 +15,7 @@ Simply insert the WordPress share code from Polldaddy into your Elgg post. The W
 * Polldaddy Poll
 * Polldaddy Rating
 
-`I hope to add support for more poll types and providers in the future. If you have a request, please post it to the project's [issue tracker on GitHub](https://github.com/zoebogner/poll_embedder/issues).`
+*I hope to add support for more poll types and providers in the future. If you have a request, please post it to the project's [issue tracker on GitHub](https://github.com/zoebogner/poll_embedder/issues).*
 
 ### Plugin support
 
@@ -28,3 +28,7 @@ Submit issues and questions to the github issue tracker - [https://github.com/zo
 This plugin was inspired by Ray J's [Embed Extender plugin](http://community.elgg.org/plugins/787632/1.8.2/embed-extender), and excellent launch point for anyone wanting to learn more about developing Elgg plugins.
 
 Neither this plugin nor the developer is affiliated with Polldaddy, Wordpress, Elgg, etc.
+
+### Licence
+
+[http://www.gnu.org/licenses/old-licenses/gpl-2.0.html](GNU Public License version 2)
