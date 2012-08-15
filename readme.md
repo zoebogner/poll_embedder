@@ -31,7 +31,7 @@ Submit issues and questions to the github issue tracker - [https://github.com/zo
 
 * Clarified instruction text to include the nessisary plugin folder name.
 
-** 0.1 2012-08-10**
+**0.1 2012-08-10**
 
 * Initial release
 
