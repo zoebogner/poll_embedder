@@ -2,7 +2,7 @@
 <plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
 	<name>Poll Embedder</name>
 	<author>Zoe Bogner</author>
-	<version>0.1 2012-08-10</version>
+	<version>0.1.1 2012-08-15</version>
 	<description>Allows users to embed Polldaddy Polls and Ratings into Elgg using Wordpress shortcodes.</description>
 	<website>http://www.zoe.id.au</website>
 	<copyright>(C) Zoe Bogner - 2012</copyright>

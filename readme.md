@@ -1,4 +1,4 @@
-## Poll Embedder 0.1 2012-08-10
+## Poll Embedder 0.1.1 2012-08-15
 
 Tested in **Elgg 1.8.8**
 
@@ -6,7 +6,9 @@ Poll Embedder allows you to embed Polldaddy Polls and Ratings into Elgg using Wo
 
 ### Usage
 
-Simply insert the WordPress share code from Polldaddy into your Elgg post. The WordPress share code for a Polldaddy poll looks something like this:
+To install the plugin, rename the plugin folder to **poll_embedder** and place it into the /mod/ directory of your Elgg site. Then activate the plugin from your Elgg site's plugin administration screen.
+
+To insert a Polldaddy poll or rating, simply paste the WordPress share code from Polldaddy into the text field of your post. The WordPress share code for a Polldaddy poll looks something like this:
 
 > &#91;polldaddy poll="1234567"&#93;
 
@@ -22,6 +24,16 @@ Simply insert the WordPress share code from Polldaddy into your Elgg post. The W
 This project is on github - [https://github.com/zoebogner/poll_embedder](https://github.com/zoebogner/poll_embedder)
 
 Submit issues and questions to the github issue tracker - [https://github.com/zoebogner/poll_embedder/issues](https://github.com/zoebogner/poll_embedder/issues)
+
+### Changelog
+
+**0.1.1 2012-08-15**
+
+* Clarified instruction text to include the nessisary plugin folder name.
+
+** 0.1 2012-08-10**
+
+* Initial release
 
 ### Acknowledgements
 
