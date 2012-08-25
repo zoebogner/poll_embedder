@@ -1,4 +1,4 @@
-## Poll Embedder 0.1.1 2012-08-15
+## Poll Embedder 0.1.2 2012-08-25 RC1
 
 Tested in **Elgg 1.8.8**
 
@@ -26,6 +26,10 @@ This project is on github - [https://github.com/zoebogner/poll_embedder](https:/
 Submit issues and questions to the github issue tracker - [https://github.com/zoebogner/poll_embedder/issues](https://github.com/zoebogner/poll_embedder/issues)
 
 ### Changelog
+
+**0.1.2 RC1 2012-08-25**
+
+* Fixed a bug caused by a function depriciated in 1.8
 
 **0.1.1 2012-08-15**
 
