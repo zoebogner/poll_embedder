@@ -5,7 +5,6 @@ function poll_embedder_init()
 
 	include_once $CONFIG->pluginspath . 'poll_embedder/lib/poll_embedder.php';
 
-	elgg_register_plugin_hook_handler('display', 'view', 'poll_embedder_rewrite');
 	elgg_register_plugin_hook_handler('view', 'all', 'poll_embedder_rewrite');
 
 	//Check where embed code - The wire
